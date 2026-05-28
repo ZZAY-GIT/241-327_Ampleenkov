@@ -1,0 +1,9 @@
+/home/zzay/lab3/build/Desktop_Qt_6_11_1-Debug/CMakeFiles/lab3.dir
+/home/zzay/lab3/build/Desktop_Qt_6_11_1-Debug/CMakeFiles/edit_cache.dir
+/home/zzay/lab3/build/Desktop_Qt_6_11_1-Debug/CMakeFiles/rebuild_cache.dir
+/home/zzay/lab3/build/Desktop_Qt_6_11_1-Debug/CMakeFiles/list_install_components.dir
+/home/zzay/lab3/build/Desktop_Qt_6_11_1-Debug/CMakeFiles/install.dir
+/home/zzay/lab3/build/Desktop_Qt_6_11_1-Debug/CMakeFiles/install/local.dir
+/home/zzay/lab3/build/Desktop_Qt_6_11_1-Debug/CMakeFiles/install/strip.dir
+/home/zzay/lab3/build/Desktop_Qt_6_11_1-Debug/CMakeFiles/lab3_autogen_timestamp_deps.dir
+/home/zzay/lab3/build/Desktop_Qt_6_11_1-Debug/CMakeFiles/lab3_autogen.dir
